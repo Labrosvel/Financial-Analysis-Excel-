@@ -1,4 +1,4 @@
-# Financial-Analysis-Excel-spreadsheet
+# Financial-Analysis-Excel
 
 Financial and Operating synergies valuation:
 
