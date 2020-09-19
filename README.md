@@ -7,6 +7,6 @@ The spreadsheet is a valuation of the target, which basically consists of 3 main
 Most of the different spreadsheets (models) are linked via original values (highlighted in blue) taken from either the financial statement of the acquirer or from market research.
 
 
-LOOT CMI - Unicredit:
+LOOT CIM - Unicredit:
 
 The pitchdeck (or CIM as it stands for Confidential Information Memorantum) is the detailed presentation of target's summary, its financial profile, the market research, the synergies and the reasons why the acquirer could be interested to proceed.
